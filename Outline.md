@@ -3,4 +3,4 @@
 ### Within this paper, we focus on modeling the partial differential equation that describes the net thickening on the ice sheets central flow line which is given by ∂Hg/∂t = Ag - Vg * ∂Hg/∂x + Hg * εzz. 
 ### Setting the time range between -16,000 B.P (before present) to now, we aim to plot how thickness has changed relative to time at different points within the West Antarctic Ice Shelf. 
 
-[Link](https://docs.google.com/document/d/1CDtLkjtMsNCyHjQuU7eqt6bnOVgG6TUgDZay-Lj1p9E/edit?usp=sharing)
+[Link to Rough Script](https://docs.google.com/document/d/1CDtLkjtMsNCyHjQuU7eqt6bnOVgG6TUgDZay-Lj1p9E/edit?usp=sharing)
